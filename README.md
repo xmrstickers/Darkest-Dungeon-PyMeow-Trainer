@@ -12,7 +12,5 @@ Known Issues:
 The Overlay makes the screen go black. This only happens to me in Darkest Dungeon and may not be something I can fix without altering PyMeow source. Any advice appreciated, though. 
 
 Updating the game "breaks" the hack - this is expected and unavoidable as I cannot predict changes made to the game binary; all memory-based hacks deal with this logisitcal hurdle. 
-If DDOffsets is broken, open an issue and I can fix it easily. 
-
-Or you could fix it yourself and submit a PR :)  
+If DDOffsets is broken, open an issue and I can fix it easily. Or you could fix it yourself and submit a PR :)  
 
