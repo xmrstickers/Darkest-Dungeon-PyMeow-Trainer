@@ -55,7 +55,7 @@ def check_key():
         draw = not draw
         pm.toggle_mouse()
         sleep(0.15)
-def refresh_inventory(offsets): 
+def refresh_inventory(offsets):  #UNUSUED - #TODO - call before bringing up overlay, to initialize edit-boxes with the player's inventory (right now shows 0's) 
     global GOLD
     gold_address = offsets.gold_address() 
     gold_offsets = offsets.gold_offsets() 
