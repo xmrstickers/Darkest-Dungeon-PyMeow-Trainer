@@ -2,7 +2,8 @@ import pyMeow as pm
 from time import sleep
 from DDOffsets import *
 
-
+#this file is useful for seeing if the offsets work in your game. simply launch the game and ensure you are on the caravan/town menu before running. 
+#if the command line prints your gold number, the rest of the hack "should work" 
 
 debug = True
 
