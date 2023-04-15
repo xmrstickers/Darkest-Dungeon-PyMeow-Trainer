@@ -4,7 +4,7 @@ basic/crude trainer I made to practice with the PyMeow library.
 
 The DDOffsets file could be useful to you when making your own hack, even outside of PyMeow. 
 
-#To use:# 
+## To use:
 
 ensure you have 64-bit python installed and [PyMeow](https://github.com/qb-0/pyMeow/)
 
@@ -16,10 +16,10 @@ Simply run `menu.py` and then press INSERT to toggle the overlay which lets you 
 
 Yes, your screen will go black when the overlay comes up. Simply "click back into the game" and provide focus to the game menu when you are done with the overlay, even if the screen goes black, and all is fine. These overlay issues only happen in Darkest Dungeon to me so far, and I am not sure how to fix it. 
 
-#In Action:# 
+## In Action: 
 ![image](https://user-images.githubusercontent.com/89484281/232171157-0c592ccf-02b5-4a2c-8af2-793002fc4d27.png)
 
-#Known Issues:# 
+## Known Issues:
 
 The Overlay makes the screen go black. This only happens to me in Darkest Dungeon and may not be something I can fix without altering PyMeow source. Any advice appreciated, though. 
 
